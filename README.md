@@ -1,18 +1,24 @@
 # ToDoApp
 
+Prosjektmappe for første prosjektoppgave i IKT205. Prosjektmappen inneholder en ufullstendig app som holder oversikt over lister. Appen er delt inn i to skjermer (aktiviteter). Første skjerm gir oversikt over eksisterende lister, med navn og statusbar. Dersom man klikker på et av listen blir man tatt med til neste aktivitet. Andre skjerm gir oversikt av innholdet til en liste, med navn, statusbar og liste over entries (innhold).
+
+Nåværende funksjonalitet:
+
+Bruker kan navigere mellom aktiviteter
+Bruker kan lage ny liste*
+Bruker kan lage ny entry*
+Bruker kan endre navn på listen*
+*merknad: ingen lagringsfunksjonalitet implementert foreløpig
 
 
-
-Dette er min innlevering av prosjekt 1. Det som skulle bli laget i denne prosjekten var en To Do List App. Jeg fikk til en startside hvor man kunne skrive titelen til første task eller oppdrag, og ha en grei oversikt. Deretter kan man klikke og skrive inn en To Do task, og du kan klikke deg inn på den spesifikke tasken også. Det jeg ikke fikk til er å slette tasks og legge til sub tasks inne i en allerede laget task. Firebasen ville heller ikke fungere selv etter å ha syncronisert og limt inn de nødvendige linkene som vises til i "Get Started". Kort sagt min skjerm 1 var 80% ferdig manglet bare slett knappen. Skjerm 2 manglet slett knapp og å legge til sub tasks og markere hvilke tasks som er utført og ikke utført.
+Prosjektmappe 1, som handler om å lage en To Do Liste, som skal fungere som en huske liste. Prosjektetmappen som jeg leverer er en ufullstendig app som viser en oversikt over en liste med oppdrag som man kan skrive inn. Det som skulle bli laget i denne prosjekten var Jeg fikk til en startside slik i eksempel bilde 1. hvor man kunne skrive titelen til første task eller oppdrag, og ha en grei oversikt. Deretter kan man klikke og skrive inn en To Do task, og du kan klikke deg inn på den spesifikke tasken også. Det jeg ikke fikk til er å slette tasks og legge til sub tasks inne i en allerede laget task. Firebasen ville heller ikke fungere selv etter å ha syncronisert og limt inn de nødvendige linkene som vises til i "Get Started". Dermed blir ikke task jeg legger til lagret i noe database. Kort sagt min skjerm 1 var 80% ferdig manglet bare slett knappen. Skjerm 2 manglet slett knapp og å legge til sub tasks og markere hvilke tasks som er utført og ikke utført.
 
 Skjerm 1:
-
 Forside kan legge til task:
 
 ![image](https://user-images.githubusercontent.com/77720622/114768506-3b7b5f00-9d69-11eb-826d-7bf9d6a6561a.png)
 
 Eksempel på skjerm 2:
-
 Laget en task kalt "Hjemmelekse", hvor vi kan klikke oss inn.
 
 ![image](https://user-images.githubusercontent.com/77720622/114768689-839a8180-9d69-11eb-8869-ab3819a4e339.png)
