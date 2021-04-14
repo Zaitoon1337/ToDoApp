@@ -12,5 +12,5 @@ Laget en task kalt "Hjemmelekse", hvor vi kan klikke oss inn.
 
 ![image](https://user-images.githubusercontent.com/77720622/114768689-839a8180-9d69-11eb-8869-ab3819a4e339.png)
 
-
+link til nedlasting av APK via Firebase App distribution:
 https://appdistribution.firebase.dev/i/b4ebf8335497162d
